@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "generatedAt": "2026-01-01T00:00:00Z",
+    "processed": 5,
+    "valid": 5,
+    "discarded": 0,
+    "byGender": {
+      "male": 4,
+      "female": 1
+    }
+  },
+  "users": [
+    {
+      "name": "Ernesto Figueroa",
+      "birthdate": "1945-10-10",
+      "email": "ernesto.figueroa@example.com",
+      "gender": "male"
+    },
+    {
+      "name": "Vlade Glavaš",
+      "birthdate": "1948-10-01",
+      "email": "vlade.glavas@example.com",
+      "gender": "male"
+    },
+    {
+      "name": "Josephine Ray",
+      "birthdate": "1959-07-15",
+      "email": "josephine.ray@example.com",
+      "gender": "female"
+    },
+    {
+      "name": "Tom Ross",
+      "birthdate": "1977-11-11",
+      "email": "tom.ross@example.com",
+      "gender": "male"
+    },
+    {
+      "name": "Ilyès Philippe",
+      "birthdate": "1961-02-07",
+      "email": "ilyes.philippe@example.com",
+      "gender": "male"
+    }
+  ]
+}
