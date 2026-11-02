@@ -1,0 +1,75 @@
+{
+  "info": {
+    "seed": "kata3",
+    "results": 5,
+    "page": 1,
+    "version": "1.4"
+  },
+  "results": [
+    {
+      "dob": {
+        "date": "1945-10-10T05:24:07.484Z",
+        "age": 81
+      },
+      "email": "ernesto.figueroa@example.com",
+      "gender": "male",
+      "name": {
+        "title": "Mr",
+        "first": "Ernesto",
+        "last": "Figueroa"
+      }
+    },
+    {
+      "dob": {
+        "date": "1948-10-01T00:24:31.457Z",
+        "age": 78
+      },
+      "email": "vlade.glavas@example.com",
+      "gender": "male",
+      "name": {
+        "title": "Mr",
+        "first": "Vlade",
+        "last": "Glavaš"
+      }
+    },
+    {
+      "gender": "female",
+      "name": {
+        "title": "Mrs",
+        "first": "Josephine",
+        "last": "Ray"
+      },
+      "email": "josephine.ray@example.com",
+      "dob": {
+        "date": "1959-07-15T19:42:14.275Z",
+        "age": 67
+      }
+    },
+    {
+      "gender": "male",
+      "name": {
+        "title": "Mr",
+        "first": "Tom",
+        "last": "Ross"
+      },
+      "email": "tom.ross@example.com",
+      "dob": {
+        "date": "1977-11-11T13:57:17.638Z",
+        "age": 48
+      }
+    },
+    {
+      "gender": "male",
+      "name": {
+        "title": "Mr",
+        "first": "Ilyès",
+        "last": "Philippe"
+      },
+      "email": "ilyes.philippe@example.com",
+      "dob": {
+        "date": "1961-02-07T08:38:10.554Z",
+        "age": 65
+      }
+    }
+  ]
+}
