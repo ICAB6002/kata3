@@ -36,3 +36,13 @@ build/
 
 ### Mac OS ###
 .DS_Store
+
+# Requisitos específicos de la asignatura IS2
+out/
+bin/
+*.class
+*.jar
+*.war
+*.log
+*.zip
+*.exe
