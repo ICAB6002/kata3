@@ -77,4 +77,4 @@ Hay 12 tests con JUnit, que cubren lo que pide el enunciado:
 Para que la salida siempre sea igual en los tests, el serializador usa un reloj fijo (`Clock`) en lugar de la hora real.
 
 ## Vídeo explicativo
-Enlace: PENDIENTE
+Enlace: https://youtu.be/05TM0lVRp_w
